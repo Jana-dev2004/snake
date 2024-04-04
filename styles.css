@@ -1,0 +1,25 @@
+*
+{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:#ebba0b;
+    text-align:center;
+}
+h2
+{
+ color: green;
+}
+#msg
+{
+    margin-bottom: 1em;
+}
+#gameboard
+{
+    border: 5px solid;
+}
+#score
+{
+    margin-top: 1em;
+    font-size: 2em;
+}
